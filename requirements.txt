@@ -1,0 +1,7 @@
+chainlit
+openai
+langchain
+langchain_community
+deepface
+pyttsx3
+tf-keras
