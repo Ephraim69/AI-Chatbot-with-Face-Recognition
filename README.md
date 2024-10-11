@@ -5,8 +5,10 @@ VegaBot is an AI-powered personal assistant that uses **face recognition** to ve
 ---
 
 ## Video Demo
+[![Video Title](https://img.youtube.com/vi/GAlyjABkSUs/0.jpg)](https://www.youtube.com/watch?v=GAlyjABkSUs)
 
-![VegaBot Chatbot Demo](/Demo/Demo.gif)
+
+#### *Click the image above to watch the video*
 
 *Above is a screen recording showing VegaBot in action. It demonstrates the face recognition and chatbot functionalities.*
 
