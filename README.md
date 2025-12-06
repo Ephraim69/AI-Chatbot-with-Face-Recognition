@@ -4,9 +4,6 @@ VegaBot is an AI-powered personal assistant that uses **face recognition** to ve
 
 ---
 
-## Video Demo
-[![Video Title](https://img.youtube.com/vi/GAlyjABkSUs/0.jpg)](https://www.youtube.com/watch?v=GAlyjABkSUs)
-
 
 #### *Click the image above to watch the video*
 
@@ -136,4 +133,5 @@ python main.py
 - **Model Errors**: Ensure that the `gemma:2b` model is correctly pulled by Ollama and that the server is running.
 
 ---
+
 
